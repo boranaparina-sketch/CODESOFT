@@ -30,7 +30,7 @@ class ModernCalculator:
         self.buttons_frame.pack(fill="both", expand=True)
         
         btns = [
-            ['C', '±', '%', '/'],
+            ['C', 'π', '%', '/'],
             ['7', '8', '9', '*'],
             ['4', '5', '6', '-'],
             ['1', '2', '3', '+'],
