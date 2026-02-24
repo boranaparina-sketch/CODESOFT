@@ -6,7 +6,7 @@ import secrets
 DARK_BG = "#0f172a"        
 CARD_BG = "#1e293b"        
 ACCENT = "#14b8a6"         
-TEXT_WHITE = "#e0e7ff"    
+TEXT_WHITE = "#0d0d0e"    
 GREEN = "#22c55e"          
 RED = "#ef4444"            
 
